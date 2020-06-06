@@ -51,10 +51,30 @@
 
 # 프로젝트 구현 요구사항 및 구현영상
 
+프로젝트 구현 요구사항: https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNEKbs/edit#slide=id.p5
+
+프로젝트 구현영상(A,B): https://www.youtube.com/watch?v=1A6mW316tBg&feature=youtu.be
+
+A. 메인페이지
+  1-1. 메인페이지- 카테고리
+  1-2. 메인페이지- 하단영역
+  1-3. 메인페이지- GNB & 프로모션 영역
+  
+B. 상세페이지
+  2-1. 상세페이지- 상단영역
+  2-2. 상세페이지- 하단영역- 예매자 한줄평
+  2-3. 상세페이지- 예매자 한줄평 전체
+  2-4. 상세페이지- 하단 상세설명
+  
+C. 예약하기
+  3-1. 예약하기- 상품정보
+  3-2. 예약하기- 티켓
+  3-3. 예약하기- 예매자 정보
+  
+D. 한줄 평 등록
 
 
-
-# DB 설계도
+# ER다이어그램
 
 <img src="https://user-images.githubusercontent.com/37204852/83943594-5a02f680-a838-11ea-90ab-d2558d645c7d.png"/>
 
