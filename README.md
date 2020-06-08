@@ -10,7 +10,9 @@
 
 5. Edwidth 부스트코스 [웹 프로그래밍] 링크: https://www.edwith.org/boostcourse-web/joinLectures/12943
 
-6. 기술스택: Java, Spring, Mysql, iBatis, Javascript
+6. 시연영상(메인,상세페이지): https://www.youtube.com/watch?v=1A6mW316tBg&feature=youtu.be
+
+7. 기술스택: Java, Spring, Mysql, iBatis, Javascript
 
 # 프로젝트 기술요구사항
 
@@ -53,9 +55,6 @@
 
 #### (1) 프로젝트 구현 요구사항:
 #### https://docs.google.com/presentation/d/1i2IC1yIH5ACFCvCH4EMVv_3Zw2oltRvHK94amyNEKbs/edit#slide=id.p5
-
-#### (2) 프로젝트 구현영상(A,B): 
-#### https://www.youtube.com/watch?v=1A6mW316tBg&feature=youtu.be
 
 A. 메인페이지
 
