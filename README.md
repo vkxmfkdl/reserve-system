@@ -12,7 +12,11 @@
 
 6. 시연영상(메인,상세페이지): https://www.youtube.com/watch?v=1A6mW316tBg&feature=youtu.be
 
-7. 기술스택: Java, Spring, Mysql, iBatis, Javascript
+7. 소스코드대신 시연영상 대체하는 이유
+
+<img src="https://user-images.githubusercontent.com/37204852/84009806-c6a00180-a9ae-11ea-99da-cde65c1b9829.png"/>
+
+8. 기술스택: Java, Spring, Mysql, iBatis, Javascript
 
 # 프로젝트 기술요구사항
 
