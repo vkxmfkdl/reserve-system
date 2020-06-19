@@ -6,7 +6,7 @@
 
 3. 프로젝트 소개: Edwidth 부스트코스 [웹 프로그래밍] 과정을 수강하며 제작한 네이버예약 시스템이다.
 
-4. 개발기간: 2020.05 ~
+4. 개발기간: 2020.05 ~ 2020.06
 
 5. Edwidth 부스트코스 [웹 프로그래밍] 링크: https://www.edwith.org/boostcourse-web/joinLectures/12943
 
@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/37204852/84009806-c6a00180-a9ae-11ea-99da-cde65c1b9829.png"/>
 
-8. 기술스택: Java, Spring, Mysql, iBatis, Javascript
+8. 기술스택: Java, Spring, Mysql, MyBatis, Javascript
 
 # 프로젝트 기술요구사항
 
@@ -93,6 +93,10 @@ D. 한줄 평 등록
 <img src="https://user-images.githubusercontent.com/37204852/83990426-90e62300-a984-11ea-94f0-4f593b2fbf17.png"/>
 
 <img src="https://user-images.githubusercontent.com/37204852/83990484-d1de3780-a984-11ea-9f16-4a09e68f3a4d.png"/>
+
+<img src="https://user-images.githubusercontent.com/37204852/85131818-8b38e900-b272-11ea-8010-f3e97102ce4e.png"/>
+
+<img src="https://user-images.githubusercontent.com/37204852/85132047-fb476f00-b272-11ea-9f2c-13a34b5054ab.png"/>
 
 # ER다이어그램
 
