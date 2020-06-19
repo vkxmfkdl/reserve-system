@@ -10,7 +10,7 @@
 
 5. Edwidth 부스트코스 [웹 프로그래밍] 링크: https://www.edwith.org/boostcourse-web/joinLectures/12943
 
-6. 시연영상(메인,상세페이지): https://www.youtube.com/watch?v=V3UB1ge0x7s&feature=youtu.be
+6. 시연영상(메인,상세페이지): https://youtu.be/oJ3Hv_QtRlo
 
 7. 소스코드대신 시연영상 대체하는 이유
 
